@@ -1,0 +1,484 @@
+[14:18:12:253 @29 main: File path is input/hotels/hotels.json
+[14:18:12:317 @41 main: Hotel files are parsed. Number of hotels is 157
+[14:18:12:341 @110 main: Worker working on input/reviews finished work
+[14:18:12:346 @53 pool-2-thread-1: File path is input/reviews/SanCarlos/review200649.json
+[14:18:12:347 @53 pool-2-thread-2: File path is input/reviews/SanCarlos/review14781.json
+[14:18:12:347 @110 main: Worker working on input/reviews/SanCarlos finished work
+[14:18:12:362 @53 pool-2-thread-3: File path is input/reviews/SanFrancisco/review919198.json
+[14:18:12:362 @53 pool-2-thread-2: File path is input/reviews/SanFrancisco/review912982.json
+[14:18:12:362 @53 pool-2-thread-1: File path is input/reviews/SanFrancisco/review4432027.json
+[14:18:12:364 @53 pool-2-thread-1: File path is input/reviews/SanFrancisco/review662368.json
+[14:18:12:371 @53 pool-2-thread-2: File path is input/reviews/SanFrancisco/review533579.json
+[14:18:12:371 @53 pool-2-thread-3: File path is input/reviews/SanFrancisco/review1606984.json
+[14:18:12:372 @53 pool-2-thread-1: File path is input/reviews/SanFrancisco/review1321986.json
+[14:18:12:374 @53 pool-2-thread-2: File path is input/reviews/SanFrancisco/review50993.json
+[14:18:12:380 @53 pool-2-thread-1: File path is input/reviews/SanFrancisco/review5830.json
+[14:18:12:381 @53 pool-2-thread-3: File path is input/reviews/SanFrancisco/review476728.json
+[14:18:12:385 @53 pool-2-thread-2: File path is input/reviews/SanFrancisco/review20701.json
+[14:18:12:388 @53 pool-2-thread-3: File path is input/reviews/SanFrancisco/review910225.json
+[14:18:12:389 @53 pool-2-thread-1: File path is input/reviews/SanFrancisco/review2336.json
+[14:18:12:397 @53 pool-2-thread-3: File path is input/reviews/SanFrancisco/review22510.json
+[14:18:12:401 @53 pool-2-thread-1: File path is input/reviews/SanFrancisco/review26945.json
+[14:18:12:401 @53 pool-2-thread-2: File path is input/reviews/SanFrancisco/review11509.json
+[14:18:12:409 @53 pool-2-thread-3: File path is input/reviews/SanFrancisco/review8090040.json
+[14:18:12:410 @53 pool-2-thread-2: File path is input/reviews/SanFrancisco/review51116.json
+[14:18:12:410 @53 pool-2-thread-1: File path is input/reviews/SanFrancisco/review23383.json
+[14:18:12:413 @53 pool-2-thread-3: File path is input/reviews/SanFrancisco/review1145267.json
+[14:18:12:417 @110 main: Worker working on input/reviews/SanFrancisco finished work
+[14:18:12:422 @53 pool-2-thread-2: File path is input/reviews/SanFrancisco/review7713.json
+[14:18:12:423 @53 pool-2-thread-3: File path is input/reviews/SanFrancisco/review6505.json
+[14:18:12:423 @53 pool-2-thread-1: File path is input/reviews/SanFrancisco/review918527.json
+[14:18:12:432 @53 pool-2-thread-2: File path is input/reviews/SanFrancisco/review904482.json
+[14:18:12:433 @53 pool-2-thread-1: File path is input/reviews/SanFrancisco/review18437.json
+[14:18:12:436 @53 pool-2-thread-3: File path is input/reviews/SanFrancisco/review881699.json
+[14:18:12:441 @53 pool-2-thread-2: File path is input/reviews/SanFrancisco/review12539.json
+[14:18:12:444 @53 pool-2-thread-3: File path is input/reviews/SanFrancisco/review12493.json
+[14:18:12:445 @53 pool-2-thread-1: File path is input/reviews/SanFrancisco/review1515923.json
+[14:18:12:448 @53 pool-2-thread-2: File path is input/reviews/SanFrancisco/review522505.json
+[14:18:12:451 @53 pool-2-thread-1: File path is input/reviews/SanFrancisco/review18200.json
+[14:18:12:452 @53 pool-2-thread-3: File path is input/reviews/SanFrancisco/review876315.json
+[14:18:12:456 @53 pool-2-thread-2: File path is input/reviews/SanFrancisco/review693658.json
+[14:18:12:456 @110 main: Worker working on input/reviews/SanFrancisco/SFOAirport finished work
+[14:18:12:458 @110 main: Worker working on input/reviews/SanFrancisco/Hostels finished work
+[14:18:12:459 @53 pool-2-thread-1: File path is input/reviews/SanFrancisco/review287665.json
+[14:18:12:460 @53 pool-2-thread-3: File path is input/reviews/SanFrancisco/review6666.json
+[14:18:12:464 @53 pool-2-thread-2: File path is input/reviews/SanFrancisco/review7262522.json
+[14:18:12:460 @110 main: Worker working on input/reviews/SanFrancisco/UnionSq finished work
+[14:18:12:466 @53 pool-2-thread-3: File path is input/reviews/SanFrancisco/review790530.json
+[14:18:12:466 @53 pool-2-thread-2: File path is input/reviews/SanFrancisco/review25860.json
+[14:18:12:467 @110 main: Worker working on input/reviews/SanFrancisco/FishermansWharf finished work
+[14:18:12:467 @53 pool-2-thread-1: File path is input/reviews/SanFrancisco/review42336.json
+[14:18:12:467 @110 main: Worker working on input/reviews/SanFrancisco/FinancialDistrict finished work
+[14:18:12:469 @110 main: Worker working on input/reviews/Emeryville finished work
+[14:18:12:472 @53 pool-2-thread-3: File path is input/reviews/SanFrancisco/review890830.json
+[14:18:12:473 @53 pool-2-thread-2: File path is input/reviews/SanFrancisco/review7942.json
+[14:18:12:475 @53 pool-2-thread-1: File path is input/reviews/SanFrancisco/review21073.json
+[14:18:12:478 @53 pool-2-thread-3: File path is input/reviews/SanFrancisco/review6271901.json
+[14:18:12:480 @53 pool-2-thread-2: File path is input/reviews/SanFrancisco/review5338.json
+[14:18:12:483 @53 pool-2-thread-1: File path is input/reviews/SanFrancisco/review897225.json
+[14:18:12:486 @53 pool-2-thread-3: File path is input/reviews/SanFrancisco/review41833.json
+[14:18:12:488 @53 pool-2-thread-2: File path is input/reviews/SanFrancisco/review789395.json
+[14:18:12:491 @53 pool-2-thread-1: File path is input/reviews/SanFrancisco/review1766605.json
+[14:18:12:495 @53 pool-2-thread-3: File path is input/reviews/SanFrancisco/review25271.json
+[14:18:12:496 @53 pool-2-thread-1: File path is input/reviews/SanFrancisco/review24620.json
+[14:18:12:496 @53 pool-2-thread-2: File path is input/reviews/SanFrancisco/review225819.json
+[14:18:12:502 @53 pool-2-thread-3: File path is input/reviews/SanFrancisco/review808403.json
+[14:18:12:503 @53 pool-2-thread-1: File path is input/reviews/SanFrancisco/review15254.json
+[14:18:12:504 @53 pool-2-thread-2: File path is input/reviews/SanFrancisco/review18962.json
+[14:18:12:508 @53 pool-2-thread-3: File path is input/reviews/SanFrancisco/review1588312.json
+[14:18:12:508 @53 pool-2-thread-2: File path is input/reviews/SanFrancisco/review8638.json
+[14:18:12:508 @53 pool-2-thread-1: File path is input/reviews/SanFrancisco/review6706717.json
+[14:18:12:510 @53 pool-2-thread-3: File path is input/reviews/SanFrancisco/review296720.json
+[14:18:12:511 @53 pool-2-thread-1: File path is input/reviews/SanFrancisco/review444672.json
+[14:18:12:517 @53 pool-2-thread-2: File path is input/reviews/SanFrancisco/review11523.json
+[14:18:12:517 @53 pool-2-thread-3: File path is input/reviews/SanFrancisco/review8647196.json
+[14:18:12:521 @53 pool-2-thread-1: File path is input/reviews/SanFrancisco/review791769.json
+[14:18:12:524 @53 pool-2-thread-3: File path is input/reviews/SanFrancisco/review891239.json
+[14:18:12:524 @53 pool-2-thread-2: File path is input/reviews/SanFrancisco/review5361249.json
+[14:18:12:526 @53 pool-2-thread-2: File path is input/reviews/SanFrancisco/review856888.json
+[14:18:12:528 @53 pool-2-thread-1: File path is input/reviews/SanFrancisco/review5875.json
+[14:18:12:531 @53 pool-2-thread-3: File path is input/reviews/SanFrancisco/review23406.json
+[14:18:12:531 @53 pool-2-thread-2: File path is input/reviews/SanFrancisco/review287112.json
+[14:18:12:544 @53 pool-2-thread-2: File path is input/reviews/SanFrancisco/review17616.json
+[14:18:12:546 @53 pool-2-thread-1: File path is input/reviews/SanFrancisco/review2406.json
+[14:18:12:551 @53 pool-2-thread-2: File path is input/reviews/SanFrancisco/review23774.json
+[14:18:12:554 @53 pool-2-thread-3: File path is input/reviews/SanFrancisco/review5984.json
+[14:18:12:554 @53 pool-2-thread-1: File path is input/reviews/SanFrancisco/review13950.json
+[14:18:12:558 @53 pool-2-thread-2: File path is input/reviews/SanFrancisco/review1146383.json
+[14:18:12:561 @53 pool-2-thread-1: File path is input/reviews/SanFrancisco/review14451.json
+[14:18:12:561 @53 pool-2-thread-3: File path is input/reviews/SanFrancisco/review27274.json
+[14:18:12:561 @53 pool-2-thread-2: File path is input/reviews/SanFrancisco/review438727.json
+[14:18:12:567 @53 pool-2-thread-2: File path is input/reviews/SanFrancisco/review14781.json
+[14:18:12:568 @53 pool-2-thread-3: File path is input/reviews/SanFrancisco/review283107.json
+[14:18:12:570 @53 pool-2-thread-1: File path is input/reviews/SanFrancisco/review19035.json
+[14:18:12:572 @53 pool-2-thread-2: File path is input/reviews/SanFrancisco/review5045.json
+[14:18:12:572 @53 pool-2-thread-3: File path is input/reviews/SanFrancisco/review26760.json
+[14:18:12:578 @53 pool-2-thread-3: File path is input/reviews/SanFrancisco/review16552.json
+[14:18:12:578 @53 pool-2-thread-2: File path is input/reviews/SanFrancisco/review22148.json
+[14:18:12:579 @53 pool-2-thread-1: File path is input/reviews/SanFrancisco/review9043627.json
+[14:18:12:581 @53 pool-2-thread-1: File path is input/reviews/SanFrancisco/review855749.json
+[14:18:12:584 @53 pool-2-thread-2: File path is input/reviews/SanFrancisco/review437098.json
+[14:18:12:585 @53 pool-2-thread-3: File path is input/reviews/SanFrancisco/review894295.json
+[14:18:12:588 @53 pool-2-thread-1: File path is input/reviews/SanFrancisco/review519729.json
+[14:18:12:590 @53 pool-2-thread-2: File path is input/reviews/SanFrancisco/review23581.json
+[14:18:12:590 @53 pool-2-thread-3: File path is input/reviews/SanFrancisco/review3308.json
+[14:18:12:594 @53 pool-2-thread-1: File path is input/reviews/SanFrancisco/review18320.json
+[14:18:12:596 @53 pool-2-thread-3: File path is input/reviews/SanFrancisco/review11793.json
+[14:18:12:597 @53 pool-2-thread-2: File path is input/reviews/SanFrancisco/review3552.json
+[14:18:12:600 @53 pool-2-thread-2: File path is input/reviews/SanFrancisco/review578899.json
+[14:18:12:600 @53 pool-2-thread-3: File path is input/reviews/SanFrancisco/review915510.json
+[14:18:12:601 @53 pool-2-thread-1: File path is input/reviews/SanFrancisco/review20191.json
+[14:18:12:606 @53 pool-2-thread-2: File path is input/reviews/SanFrancisco/review2536795.json
+[14:18:12:606 @53 pool-2-thread-1: File path is input/reviews/SanFrancisco/review40682.json
+[14:18:12:607 @53 pool-2-thread-3: File path is input/reviews/SanFrancisco/review790579.json
+[14:18:12:609 @53 pool-2-thread-2: File path is input/reviews/SanFrancisco/review18204.json
+[14:18:12:614 @53 pool-2-thread-1: File path is input/reviews/SanFrancisco/review15135.json
+[14:18:12:615 @53 pool-2-thread-3: File path is input/reviews/SanFrancisco/review883306.json
+[14:18:12:616 @53 pool-2-thread-2: File path is input/reviews/SanFrancisco/review19842.json
+[14:18:12:617 @53 pool-2-thread-1: File path is input/reviews/SanFrancisco/review57255.json
+[14:18:12:620 @53 pool-2-thread-3: File path is input/reviews/SanFrancisco/review7635.json
+[14:18:12:620 @53 pool-2-thread-2: File path is input/reviews/SanFrancisco/review24540.json
+[14:18:12:623 @53 pool-2-thread-1: File path is input/reviews/SanFrancisco/review564858.json
+[14:18:12:625 @53 pool-2-thread-2: File path is input/reviews/SanFrancisco/review1208461.json
+[14:18:12:625 @53 pool-2-thread-3: File path is input/reviews/SanFrancisco/review5425.json
+[14:18:12:626 @53 pool-2-thread-1: File path is input/reviews/SanFrancisco/review11771.json
+[14:18:12:636 @53 pool-2-thread-1: File path is input/reviews/SanFrancisco/review455591.json
+[14:18:12:643 @53 pool-2-thread-1: File path is input/reviews/SanFrancisco/review14553.json
+[14:18:12:646 @53 pool-2-thread-3: File path is input/reviews/SanFrancisco/review118232.json
+[14:18:12:647 @53 pool-2-thread-2: File path is input/reviews/SanFrancisco/review28200.json
+[14:18:12:649 @53 pool-2-thread-3: File path is input/reviews/SanFrancisco/review15769.json
+[14:18:12:649 @53 pool-2-thread-1: File path is input/reviews/SanFrancisco/review5901.json
+[14:18:12:658 @53 pool-2-thread-2: File path is input/reviews/SanFrancisco/review897333.json
+[14:18:12:661 @53 pool-2-thread-1: File path is input/reviews/SanFrancisco/SFOAirport/review12345.json
+[14:18:12:661 @53 pool-2-thread-3: File path is input/reviews/SanFrancisco/SFOAirport/review23838.json
+[14:18:12:664 @53 pool-2-thread-2: File path is input/reviews/SanFrancisco/SFOAirport/review40443.json
+[14:18:12:666 @53 pool-2-thread-3: File path is input/reviews/SanFrancisco/SFOAirport/review524164.json
+[14:18:12:666 @53 pool-2-thread-1: File path is input/reviews/SanFrancisco/SFOAirport/review4705.json
+[14:18:12:670 @53 pool-2-thread-1: File path is input/reviews/SanFrancisco/SFOAirport/review599536.json
+[14:18:12:673 @53 pool-2-thread-3: File path is input/reviews/SanFrancisco/SFOAirport/review1139289.json
+[14:18:12:677 @53 pool-2-thread-1: File path is input/reviews/SanFrancisco/SFOAirport/review4044.json
+[14:18:12:679 @53 pool-2-thread-3: File path is input/reviews/SanFrancisco/SFOAirport/review2981.json
+[14:18:12:680 @53 pool-2-thread-1: File path is input/reviews/SanFrancisco/SFOAirport/review26500.json
+[14:18:12:682 @53 pool-2-thread-2: File path is input/reviews/SanFrancisco/SFOAirport/review7655.json
+[14:18:12:685 @53 pool-2-thread-1: File path is input/reviews/SanFrancisco/SFOAirport/review16955.json
+[14:18:12:686 @53 pool-2-thread-3: File path is input/reviews/SanFrancisco/SFOAirport/review487.json
+[14:18:12:689 @53 pool-2-thread-2: File path is input/reviews/SanFrancisco/SFOAirport/review9329.json
+[14:18:12:690 @53 pool-2-thread-1: File path is input/reviews/SanFrancisco/SFOAirport/review1110785.json
+[14:18:12:692 @53 pool-2-thread-3: File path is input/reviews/SanFrancisco/SFOAirport/review28502.json
+[14:18:12:697 @53 pool-2-thread-1: File path is input/reviews/SanFrancisco/Hostels/review9491356.json
+[14:18:12:699 @53 pool-2-thread-2: File path is input/reviews/SanFrancisco/Hostels/review14772741.json
+[14:18:12:700 @53 pool-2-thread-1: File path is input/reviews/SanFrancisco/UnionSq/review8737.json
+[14:18:12:701 @53 pool-2-thread-3: File path is input/reviews/SanFrancisco/UnionSq/review150946.json
+[14:18:12:704 @53 pool-2-thread-2: File path is input/reviews/SanFrancisco/UnionSq/review23395.json
+[14:18:12:706 @53 pool-2-thread-3: File path is input/reviews/SanFrancisco/UnionSq/review20547.json
+[14:18:12:706 @53 pool-2-thread-1: File path is input/reviews/SanFrancisco/UnionSq/review5883.json
+[14:18:12:711 @53 pool-2-thread-1: File path is input/reviews/SanFrancisco/UnionSq/review25622.json
+[14:18:12:711 @53 pool-2-thread-3: File path is input/reviews/SanFrancisco/UnionSq/review360.json
+[14:18:12:714 @53 pool-2-thread-2: File path is input/reviews/SanFrancisco/UnionSq/review24468.json
+[14:18:12:716 @53 pool-2-thread-1: File path is input/reviews/SanFrancisco/FishermansWharf/review22500.json
+[14:18:12:716 @53 pool-2-thread-3: File path is input/reviews/SanFrancisco/FishermansWharf/review476728.json
+[14:18:12:722 @53 pool-2-thread-3: File path is input/reviews/SanFrancisco/FishermansWharf/review1047.json
+[14:18:12:722 @53 pool-2-thread-1: File path is input/reviews/SanFrancisco/FishermansWharf/review20488.json
+[14:18:12:723 @53 pool-2-thread-2: File path is input/reviews/SanFrancisco/FishermansWharf/review24625.json
+[14:18:12:729 @53 pool-2-thread-1: File path is input/reviews/SanFrancisco/FishermansWharf/review578899.json
+[14:18:12:730 @53 pool-2-thread-3: File path is input/reviews/SanFrancisco/FishermansWharf/review422927.json
+[14:18:12:734 @53 pool-2-thread-1: File path is input/reviews/SanFrancisco/FinancialDistrict/review4302.json
+[14:18:12:734 @53 pool-2-thread-3: File path is input/reviews/Emeryville/review10323.json
+[14:18:12:736 @53 pool-2-thread-2: File path is input/reviews/Emeryville/review547988.json
+[14:18:12:739 @53 pool-2-thread-1: File path is input/reviews/Emeryville/review17280.json
+[14:18:12:739 @53 pool-2-thread-3: File path is input/reviews/Emeryville/review15674041.json
+[14:18:12:751 @49 main: Print results to files
+[14:18:12:757 @77 main: find reviews for hotel with id 1003
+[14:18:12:758 @116 main: Reviews by hotel Id: 1003
+[14:18:12:760 @77 main: find reviews for hotel with id 10323
+[14:18:12:761 @116 main: Reviews by hotel Id: 10323
+[14:18:12:809 @77 main: find reviews for hotel with id 1047
+[14:18:12:809 @116 main: Reviews by hotel Id: 1047
+[14:18:12:824 @77 main: find reviews for hotel with id 1110785
+[14:18:12:824 @116 main: Reviews by hotel Id: 1110785
+[14:18:12:836 @77 main: find reviews for hotel with id 1139289
+[14:18:12:836 @116 main: Reviews by hotel Id: 1139289
+[14:18:12:847 @77 main: find reviews for hotel with id 1145267
+[14:18:12:847 @116 main: Reviews by hotel Id: 1145267
+[14:18:12:860 @77 main: find reviews for hotel with id 1146383
+[14:18:12:861 @116 main: Reviews by hotel Id: 1146383
+[14:18:12:867 @77 main: find reviews for hotel with id 11509
+[14:18:12:868 @116 main: Reviews by hotel Id: 11509
+[14:18:12:879 @77 main: find reviews for hotel with id 11523
+[14:18:12:879 @116 main: Reviews by hotel Id: 11523
+[14:18:12:885 @77 main: find reviews for hotel with id 11771
+[14:18:12:886 @116 main: Reviews by hotel Id: 11771
+[14:18:12:894 @77 main: find reviews for hotel with id 11793
+[14:18:12:894 @116 main: Reviews by hotel Id: 11793
+[14:18:12:901 @77 main: find reviews for hotel with id 118232
+[14:18:12:901 @116 main: Reviews by hotel Id: 118232
+[14:18:12:906 @77 main: find reviews for hotel with id 1208461
+[14:18:12:906 @116 main: Reviews by hotel Id: 1208461
+[14:18:12:921 @77 main: find reviews for hotel with id 12239224
+[14:18:12:922 @116 main: Reviews by hotel Id: 12239224
+[14:18:12:922 @77 main: find reviews for hotel with id 12239317
+[14:18:12:923 @116 main: Reviews by hotel Id: 12239317
+[14:18:12:924 @77 main: find reviews for hotel with id 12345
+[14:18:12:925 @116 main: Reviews by hotel Id: 12345
+[14:18:12:930 @77 main: find reviews for hotel with id 12493
+[14:18:12:954 @116 main: Reviews by hotel Id: 12493
+[14:18:12:960 @77 main: find reviews for hotel with id 12539
+[14:18:12:960 @116 main: Reviews by hotel Id: 12539
+[14:18:12:993 @77 main: find reviews for hotel with id 1321986
+[14:18:12:993 @116 main: Reviews by hotel Id: 1321986
+[14:18:13:000 @77 main: find reviews for hotel with id 13950
+[14:18:13:001 @116 main: Reviews by hotel Id: 13950
+[14:18:13:011 @77 main: find reviews for hotel with id 14451
+[14:18:13:011 @116 main: Reviews by hotel Id: 14451
+[14:18:13:020 @77 main: find reviews for hotel with id 14553
+[14:18:13:020 @116 main: Reviews by hotel Id: 14553
+[14:18:13:029 @77 main: find reviews for hotel with id 14742075
+[14:18:13:029 @116 main: Reviews by hotel Id: 14742075
+[14:18:13:030 @77 main: find reviews for hotel with id 14772741
+[14:18:13:030 @116 main: Reviews by hotel Id: 14772741
+[14:18:13:030 @77 main: find reviews for hotel with id 14781
+[14:18:13:031 @116 main: Reviews by hotel Id: 14781
+[14:18:13:038 @77 main: find reviews for hotel with id 150946
+[14:18:13:039 @116 main: Reviews by hotel Id: 150946
+[14:18:13:040 @77 main: find reviews for hotel with id 15135
+[14:18:13:041 @116 main: Reviews by hotel Id: 15135
+[14:18:13:053 @77 main: find reviews for hotel with id 1515923
+[14:18:13:053 @116 main: Reviews by hotel Id: 1515923
+[14:18:13:060 @77 main: find reviews for hotel with id 15178126
+[14:18:13:061 @116 main: Reviews by hotel Id: 15178126
+[14:18:13:061 @77 main: find reviews for hotel with id 15254
+[14:18:13:062 @116 main: Reviews by hotel Id: 15254
+[14:18:13:070 @77 main: find reviews for hotel with id 15674041
+[14:18:13:071 @116 main: Reviews by hotel Id: 15674041
+[14:18:13:072 @77 main: find reviews for hotel with id 15769
+[14:18:13:073 @116 main: Reviews by hotel Id: 15769
+[14:18:13:079 @77 main: find reviews for hotel with id 1588312
+[14:18:13:079 @116 main: Reviews by hotel Id: 1588312
+[14:18:13:080 @77 main: find reviews for hotel with id 1606984
+[14:18:13:082 @116 main: Reviews by hotel Id: 1606984
+[14:18:13:087 @77 main: find reviews for hotel with id 16552
+[14:18:13:088 @116 main: Reviews by hotel Id: 16552
+[14:18:13:093 @77 main: find reviews for hotel with id 1694
+[14:18:13:093 @116 main: Reviews by hotel Id: 1694
+[14:18:13:094 @77 main: find reviews for hotel with id 16955
+[14:18:13:095 @116 main: Reviews by hotel Id: 16955
+[14:18:13:101 @77 main: find reviews for hotel with id 17280
+[14:18:13:101 @116 main: Reviews by hotel Id: 17280
+[14:18:13:108 @77 main: find reviews for hotel with id 17616
+[14:18:13:109 @116 main: Reviews by hotel Id: 17616
+[14:18:13:121 @77 main: find reviews for hotel with id 1766605
+[14:18:13:129 @116 main: Reviews by hotel Id: 1766605
+[14:18:13:134 @77 main: find reviews for hotel with id 18200
+[14:18:13:134 @116 main: Reviews by hotel Id: 18200
+[14:18:13:139 @77 main: find reviews for hotel with id 18204
+[14:18:13:140 @116 main: Reviews by hotel Id: 18204
+[14:18:13:149 @77 main: find reviews for hotel with id 18320
+[14:18:13:150 @116 main: Reviews by hotel Id: 18320
+[14:18:13:155 @77 main: find reviews for hotel with id 18437
+[14:18:13:156 @116 main: Reviews by hotel Id: 18437
+[14:18:13:171 @77 main: find reviews for hotel with id 18962
+[14:18:13:171 @116 main: Reviews by hotel Id: 18962
+[14:18:13:179 @77 main: find reviews for hotel with id 19035
+[14:18:13:183 @116 main: Reviews by hotel Id: 19035
+[14:18:13:188 @77 main: find reviews for hotel with id 19842
+[14:18:13:189 @116 main: Reviews by hotel Id: 19842
+[14:18:13:194 @77 main: find reviews for hotel with id 200649
+[14:18:13:195 @116 main: Reviews by hotel Id: 200649
+[14:18:13:203 @77 main: find reviews for hotel with id 20191
+[14:18:13:204 @116 main: Reviews by hotel Id: 20191
+[14:18:13:210 @77 main: find reviews for hotel with id 20488
+[14:18:13:211 @116 main: Reviews by hotel Id: 20488
+[14:18:13:229 @77 main: find reviews for hotel with id 20547
+[14:18:13:237 @116 main: Reviews by hotel Id: 20547
+[14:18:13:248 @77 main: find reviews for hotel with id 2063
+[14:18:13:248 @116 main: Reviews by hotel Id: 2063
+[14:18:13:249 @77 main: find reviews for hotel with id 20701
+[14:18:13:249 @116 main: Reviews by hotel Id: 20701
+[14:18:13:258 @77 main: find reviews for hotel with id 21073
+[14:18:13:258 @116 main: Reviews by hotel Id: 21073
+[14:18:13:263 @77 main: find reviews for hotel with id 22148
+[14:18:13:264 @116 main: Reviews by hotel Id: 22148
+[14:18:13:268 @77 main: find reviews for hotel with id 22500
+[14:18:13:268 @116 main: Reviews by hotel Id: 22500
+[14:18:13:273 @77 main: find reviews for hotel with id 22510
+[14:18:13:274 @116 main: Reviews by hotel Id: 22510
+[14:18:13:278 @77 main: find reviews for hotel with id 225819
+[14:18:13:279 @116 main: Reviews by hotel Id: 225819
+[14:18:13:283 @77 main: find reviews for hotel with id 2336
+[14:18:13:284 @116 main: Reviews by hotel Id: 2336
+[14:18:13:288 @77 main: find reviews for hotel with id 23383
+[14:18:13:289 @116 main: Reviews by hotel Id: 23383
+[14:18:13:295 @77 main: find reviews for hotel with id 23395
+[14:18:13:296 @116 main: Reviews by hotel Id: 23395
+[14:18:13:300 @77 main: find reviews for hotel with id 23406
+[14:18:13:301 @116 main: Reviews by hotel Id: 23406
+[14:18:13:306 @77 main: find reviews for hotel with id 23581
+[14:18:13:307 @116 main: Reviews by hotel Id: 23581
+[14:18:13:311 @77 main: find reviews for hotel with id 23774
+[14:18:13:312 @116 main: Reviews by hotel Id: 23774
+[14:18:13:315 @77 main: find reviews for hotel with id 23838
+[14:18:13:315 @116 main: Reviews by hotel Id: 23838
+[14:18:13:318 @77 main: find reviews for hotel with id 2406
+[14:18:13:318 @116 main: Reviews by hotel Id: 2406
+[14:18:13:323 @77 main: find reviews for hotel with id 24468
+[14:18:13:323 @116 main: Reviews by hotel Id: 24468
+[14:18:13:329 @77 main: find reviews for hotel with id 24540
+[14:18:13:329 @116 main: Reviews by hotel Id: 24540
+[14:18:13:333 @77 main: find reviews for hotel with id 24620
+[14:18:13:334 @116 main: Reviews by hotel Id: 24620
+[14:18:13:338 @77 main: find reviews for hotel with id 24625
+[14:18:13:339 @116 main: Reviews by hotel Id: 24625
+[14:18:13:344 @77 main: find reviews for hotel with id 25271
+[14:18:13:344 @116 main: Reviews by hotel Id: 25271
+[14:18:13:349 @77 main: find reviews for hotel with id 25622
+[14:18:13:349 @116 main: Reviews by hotel Id: 25622
+[14:18:13:355 @77 main: find reviews for hotel with id 25860
+[14:18:13:356 @116 main: Reviews by hotel Id: 25860
+[14:18:13:360 @77 main: find reviews for hotel with id 26500
+[14:18:13:361 @116 main: Reviews by hotel Id: 26500
+[14:18:13:366 @77 main: find reviews for hotel with id 26760
+[14:18:13:366 @116 main: Reviews by hotel Id: 26760
+[14:18:13:371 @77 main: find reviews for hotel with id 26945
+[14:18:13:372 @116 main: Reviews by hotel Id: 26945
+[14:18:13:377 @77 main: find reviews for hotel with id 27274
+[14:18:13:378 @116 main: Reviews by hotel Id: 27274
+[14:18:13:382 @77 main: find reviews for hotel with id 28200
+[14:18:13:382 @116 main: Reviews by hotel Id: 28200
+[14:18:13:387 @77 main: find reviews for hotel with id 283107
+[14:18:13:387 @116 main: Reviews by hotel Id: 283107
+[14:18:13:392 @77 main: find reviews for hotel with id 28502
+[14:18:13:393 @116 main: Reviews by hotel Id: 28502
+[14:18:13:397 @77 main: find reviews for hotel with id 287112
+[14:18:13:397 @116 main: Reviews by hotel Id: 287112
+[14:18:13:402 @77 main: find reviews for hotel with id 287665
+[14:18:13:402 @116 main: Reviews by hotel Id: 287665
+[14:18:13:405 @77 main: find reviews for hotel with id 296720
+[14:18:13:406 @116 main: Reviews by hotel Id: 296720
+[14:18:13:410 @77 main: find reviews for hotel with id 2981
+[14:18:13:411 @116 main: Reviews by hotel Id: 2981
+[14:18:13:415 @77 main: find reviews for hotel with id 3308
+[14:18:13:415 @116 main: Reviews by hotel Id: 3308
+[14:18:13:418 @77 main: find reviews for hotel with id 3552
+[14:18:13:419 @116 main: Reviews by hotel Id: 3552
+[14:18:13:422 @77 main: find reviews for hotel with id 360
+[14:18:13:422 @116 main: Reviews by hotel Id: 360
+[14:18:13:425 @77 main: find reviews for hotel with id 4044
+[14:18:13:425 @116 main: Reviews by hotel Id: 4044
+[14:18:13:430 @77 main: find reviews for hotel with id 40443
+[14:18:13:430 @116 main: Reviews by hotel Id: 40443
+[14:18:13:435 @77 main: find reviews for hotel with id 40682
+[14:18:13:435 @116 main: Reviews by hotel Id: 40682
+[14:18:13:438 @77 main: find reviews for hotel with id 41833
+[14:18:13:439 @116 main: Reviews by hotel Id: 41833
+[14:18:13:442 @77 main: find reviews for hotel with id 422927
+[14:18:13:442 @116 main: Reviews by hotel Id: 422927
+[14:18:13:446 @77 main: find reviews for hotel with id 42336
+[14:18:13:446 @116 main: Reviews by hotel Id: 42336
+[14:18:13:449 @77 main: find reviews for hotel with id 4302
+[14:18:13:449 @116 main: Reviews by hotel Id: 4302
+[14:18:13:452 @77 main: find reviews for hotel with id 437098
+[14:18:13:452 @116 main: Reviews by hotel Id: 437098
+[14:18:13:455 @77 main: find reviews for hotel with id 438727
+[14:18:13:455 @116 main: Reviews by hotel Id: 438727
+[14:18:13:459 @77 main: find reviews for hotel with id 444672
+[14:18:13:460 @116 main: Reviews by hotel Id: 444672
+[14:18:13:462 @77 main: find reviews for hotel with id 455591
+[14:18:13:462 @116 main: Reviews by hotel Id: 455591
+[14:18:13:470 @77 main: find reviews for hotel with id 4705
+[14:18:13:470 @116 main: Reviews by hotel Id: 4705
+[14:18:13:472 @77 main: find reviews for hotel with id 476728
+[14:18:13:472 @116 main: Reviews by hotel Id: 476728
+[14:18:13:474 @77 main: find reviews for hotel with id 487
+[14:18:13:474 @116 main: Reviews by hotel Id: 487
+[14:18:13:477 @77 main: find reviews for hotel with id 491
+[14:18:13:477 @116 main: Reviews by hotel Id: 491
+[14:18:13:477 @77 main: find reviews for hotel with id 5045
+[14:18:13:477 @116 main: Reviews by hotel Id: 5045
+[14:18:13:480 @77 main: find reviews for hotel with id 50993
+[14:18:13:480 @116 main: Reviews by hotel Id: 50993
+[14:18:13:482 @77 main: find reviews for hotel with id 51116
+[14:18:13:482 @116 main: Reviews by hotel Id: 51116
+[14:18:13:484 @77 main: find reviews for hotel with id 519729
+[14:18:13:485 @116 main: Reviews by hotel Id: 519729
+[14:18:13:488 @77 main: find reviews for hotel with id 522505
+[14:18:13:489 @116 main: Reviews by hotel Id: 522505
+[14:18:13:495 @77 main: find reviews for hotel with id 524164
+[14:18:13:496 @116 main: Reviews by hotel Id: 524164
+[14:18:13:499 @77 main: find reviews for hotel with id 5338
+[14:18:13:499 @116 main: Reviews by hotel Id: 5338
+[14:18:13:501 @77 main: find reviews for hotel with id 5425
+[14:18:13:502 @116 main: Reviews by hotel Id: 5425
+[14:18:13:505 @77 main: find reviews for hotel with id 547988
+[14:18:13:505 @116 main: Reviews by hotel Id: 547988
+[14:18:13:509 @77 main: find reviews for hotel with id 564858
+[14:18:13:509 @116 main: Reviews by hotel Id: 564858
+[14:18:13:514 @77 main: find reviews for hotel with id 57255
+[14:18:13:514 @116 main: Reviews by hotel Id: 57255
+[14:18:13:516 @77 main: find reviews for hotel with id 578899
+[14:18:13:516 @116 main: Reviews by hotel Id: 578899
+[14:18:13:519 @77 main: find reviews for hotel with id 5830
+[14:18:13:519 @116 main: Reviews by hotel Id: 5830
+[14:18:13:521 @77 main: find reviews for hotel with id 5875
+[14:18:13:521 @116 main: Reviews by hotel Id: 5875
+[14:18:13:523 @77 main: find reviews for hotel with id 5883
+[14:18:13:523 @116 main: Reviews by hotel Id: 5883
+[14:18:13:525 @77 main: find reviews for hotel with id 5901
+[14:18:13:525 @116 main: Reviews by hotel Id: 5901
+[14:18:13:527 @77 main: find reviews for hotel with id 5984
+[14:18:13:527 @116 main: Reviews by hotel Id: 5984
+[14:18:13:530 @77 main: find reviews for hotel with id 599536
+[14:18:13:530 @116 main: Reviews by hotel Id: 599536
+[14:18:13:533 @77 main: find reviews for hotel with id 6271901
+[14:18:13:534 @116 main: Reviews by hotel Id: 6271901
+[14:18:13:536 @77 main: find reviews for hotel with id 6505
+[14:18:13:536 @116 main: Reviews by hotel Id: 6505
+[14:18:13:538 @77 main: find reviews for hotel with id 662368
+[14:18:13:539 @116 main: Reviews by hotel Id: 662368
+[14:18:13:542 @77 main: find reviews for hotel with id 6666
+[14:18:13:543 @116 main: Reviews by hotel Id: 6666
+[14:18:13:546 @77 main: find reviews for hotel with id 693658
+[14:18:13:546 @116 main: Reviews by hotel Id: 693658
+[14:18:13:548 @77 main: find reviews for hotel with id 7635
+[14:18:13:549 @116 main: Reviews by hotel Id: 7635
+[14:18:13:551 @77 main: find reviews for hotel with id 7655
+[14:18:13:551 @116 main: Reviews by hotel Id: 7655
+[14:18:13:554 @77 main: find reviews for hotel with id 7713
+[14:18:13:554 @116 main: Reviews by hotel Id: 7713
+[14:18:13:556 @77 main: find reviews for hotel with id 789395
+[14:18:13:556 @116 main: Reviews by hotel Id: 789395
+[14:18:13:558 @77 main: find reviews for hotel with id 790530
+[14:18:13:558 @116 main: Reviews by hotel Id: 790530
+[14:18:13:560 @77 main: find reviews for hotel with id 790579
+[14:18:13:560 @116 main: Reviews by hotel Id: 790579
+[14:18:13:563 @77 main: find reviews for hotel with id 791769
+[14:18:13:563 @116 main: Reviews by hotel Id: 791769
+[14:18:13:567 @77 main: find reviews for hotel with id 7942
+[14:18:13:568 @116 main: Reviews by hotel Id: 7942
+[14:18:13:571 @77 main: find reviews for hotel with id 808403
+[14:18:13:571 @116 main: Reviews by hotel Id: 808403
+[14:18:13:573 @77 main: find reviews for hotel with id 828
+[14:18:13:574 @116 main: Reviews by hotel Id: 828
+[14:18:13:574 @77 main: find reviews for hotel with id 855749
+[14:18:13:574 @116 main: Reviews by hotel Id: 855749
+[14:18:13:576 @77 main: find reviews for hotel with id 856888
+[14:18:13:576 @116 main: Reviews by hotel Id: 856888
+[14:18:13:579 @77 main: find reviews for hotel with id 8638
+[14:18:13:579 @116 main: Reviews by hotel Id: 8638
+[14:18:13:581 @77 main: find reviews for hotel with id 8647196
+[14:18:13:582 @116 main: Reviews by hotel Id: 8647196
+[14:18:13:586 @77 main: find reviews for hotel with id 8737
+[14:18:13:586 @116 main: Reviews by hotel Id: 8737
+[14:18:13:588 @77 main: find reviews for hotel with id 876
+[14:18:13:588 @116 main: Reviews by hotel Id: 876
+[14:18:13:588 @77 main: find reviews for hotel with id 876315
+[14:18:13:588 @116 main: Reviews by hotel Id: 876315
+[14:18:13:590 @77 main: find reviews for hotel with id 881699
+[14:18:13:591 @116 main: Reviews by hotel Id: 881699
+[14:18:13:593 @77 main: find reviews for hotel with id 883306
+[14:18:13:593 @116 main: Reviews by hotel Id: 883306
+[14:18:13:595 @77 main: find reviews for hotel with id 890830
+[14:18:13:595 @116 main: Reviews by hotel Id: 890830
+[14:18:13:597 @77 main: find reviews for hotel with id 891239
+[14:18:13:598 @116 main: Reviews by hotel Id: 891239
+[14:18:13:601 @77 main: find reviews for hotel with id 894295
+[14:18:13:601 @116 main: Reviews by hotel Id: 894295
+[14:18:13:603 @77 main: find reviews for hotel with id 897225
+[14:18:13:604 @116 main: Reviews by hotel Id: 897225
+[14:18:13:606 @77 main: find reviews for hotel with id 897333
+[14:18:13:606 @116 main: Reviews by hotel Id: 897333
+[14:18:13:608 @77 main: find reviews for hotel with id 904482
+[14:18:13:608 @116 main: Reviews by hotel Id: 904482
+[14:18:13:610 @77 main: find reviews for hotel with id 910225
+[14:18:13:611 @116 main: Reviews by hotel Id: 910225
+[14:18:13:613 @77 main: find reviews for hotel with id 912982
+[14:18:13:613 @116 main: Reviews by hotel Id: 912982
+[14:18:13:616 @77 main: find reviews for hotel with id 915510
+[14:18:13:617 @116 main: Reviews by hotel Id: 915510
+[14:18:13:620 @77 main: find reviews for hotel with id 918527
+[14:18:13:620 @116 main: Reviews by hotel Id: 918527
+[14:18:13:623 @77 main: find reviews for hotel with id 919198
+[14:18:13:623 @116 main: Reviews by hotel Id: 919198
+[14:18:13:625 @77 main: find reviews for hotel with id 9329
+[14:18:13:625 @116 main: Reviews by hotel Id: 9329
+[14:18:13:627 @77 main: find reviews for hotel with id 9491356
+[14:18:13:627 @116 main: Reviews by hotel Id: 9491356
